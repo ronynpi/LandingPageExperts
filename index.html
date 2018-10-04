@@ -11,52 +11,86 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <!-- Template CSS -->
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="style.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
   </head>
   <body>
     <header>
       <div class="container">
         <div class="row">
-          <div class="col-xs-12">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-              <a class="navbar-brand" href="#">Navbar</a>
+          <div class="col-sm-12">
+            <nav class="navbar navbar-expand-lg navbar-light bg-white">
+              <a class="navbar-brand" href="#"><img src="assets/images/logo.png" alt="Landing-Page-Experts"></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
 
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav pull-right">
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link active" href="index.html">Home <span class="go"></span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Dropdown
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="#">Action</a>
-                      <a class="dropdown-item" href="#">Another action</a>
-                      <div class="dropdown-divider"></div>
-                      <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
+                    <a class="nav-link" href="about.html">About <span class="go"></span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link disabled" href="#">Disabled</a>
+                    <a class="nav-link" href="how-it-works.html">How it works <span class="go"></span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="case-studies.html">Case Studies <span class="go"></span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Get Started <span class="go"></span></a>
                   </li>
                 </ul>
-                <form class="form-inline my-2 my-lg-0">
-                  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                </form>
               </div>
           </div>
         </div>
       </div>
     </header>
+    <section class="section-box">
+      <h1 class="title">A Better Landing Page. Guaranteed. <span class="banner-line"></span></h1>
+
+      <p class="white">If Our Landing Page Doesn't Convert at Least 20% Higher in an A/B Test, It's FREE</p>
+      <a class="banner-action" href="how-it-works.html">See How it Works <i class="fas fa-play"></i></a>
+    </section>
+    <section class="section-service">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="service-box">
+              <figure>
+                <img src="assets/images/home-sr-2014-02-03-buildc.png" width="113" height="111" alt="Find">
+              </figure>
+              <h2>Find</h2>
+              <p>The 1st step to FIX problems is to FIND them</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="service-box">
+              <figure>
+              <img src="assets/images/home-sd-2014-02-03-buildc.png" width="100" height="100" alt="Fix">
+              </figure>
+              <h2>Fix</h2>
+              <p>The 1st step to FIX problems is to FIND them</p>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="service-box">
+              <figure>
+              <img src="assets/images/home-sd-2014-02-03-testc.png" width="100" height="100" alt="Find">
+              </figure>
+              <h2>Find</h2>
+              <p>A/B testing proves whether the page increases conversions</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
     <!-- Optional JavaScript -->
