@@ -56,6 +56,23 @@
     .banner-action{
         font-size: 25px;
     }
+    .con-head{
+        padding-bottom: 40px;
+    }
+    .a-sec, .b-sec{
+        max-width: 120px;
+    }
+    .a-sec p, .b-sec p{
+        font-size: 77px;
+        line-height: 82px;
+    }
+    .b-sec{
+        top: 30px;
+        right: 70px;
+    }
+    .con-details .pay{
+        position: inherit;
+    }
 }
 
 /* Custom, iPhone Retina */

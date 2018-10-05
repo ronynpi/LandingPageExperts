@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92c3ae5c-db23-487d-a004-e4ea46d18e36" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case-studies.html" afterPath="$PROJECT_DIR$/case-studies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/responsive.css" afterPath="$PROJECT_DIR$/assets/css/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,21 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1073">
-              <caret line="517" column="1" lean-forward="false" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
+            <state relative-caret-position="324">
+              <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="case-studies.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/case-studies.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="524">
+              <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -60,9 +63,10 @@
         <option value="$PROJECT_DIR$/privacy-policy.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/how-it-works.html" />
+        <option value="$PROJECT_DIR$/case-studies.html" />
         <option value="$PROJECT_DIR$/assets/css/responsive.css" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/case-studies.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -219,15 +223,15 @@
       <option name="presentableId" value="Default" />
       <updated>1538602995571</updated>
       <workItem from="1538602998623" duration="8805000" />
-      <workItem from="1538649267331" duration="30687000" />
+      <workItem from="1538649267331" duration="34125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39492000" />
+    <option name="totallyTimeSpent" value="42930000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25161812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,14 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/how-it-works.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -335,26 +331,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/case-studies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="59" column="104" lean-forward="true" selection-start-line="58" selection-start-column="108" selection-end-line="59" selection-end-column="104" />
+        <state relative-caret-position="410">
+          <caret line="168" column="14" lean-forward="true" selection-start-line="145" selection-start-column="3" selection-end-line="168" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1073">
-          <caret line="517" column="1" lean-forward="false" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
+        <state relative-caret-position="524">
+          <caret line="596" column="23" lean-forward="false" selection-start-line="596" selection-start-column="23" selection-end-line="596" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case-studies.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="324">
+          <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
           <folding />
         </state>
       </provider>
