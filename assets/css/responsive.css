@@ -13,6 +13,7 @@
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
+    .navbar{padding-left: 0;}
 }
 
 /* Medium Devices, Desktops */
@@ -41,11 +42,20 @@
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
     .navbar-brand img{width: 150px;}
+
+    .works-box .right-work{
+        width: 100%;
+    }
+    .works-box .left-work{
+        padding-left: 0;
+    }
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-
+    .banner-action{
+        font-size: 25px;
+    }
 }
 
 /* Custom, iPhone Retina */
