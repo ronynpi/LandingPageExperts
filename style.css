@@ -471,4 +471,10 @@ footer{
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 .exp-pad{margin-top: 40px;}
+
+.case-sec{
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
 /*==========Inner Page End==========*/
